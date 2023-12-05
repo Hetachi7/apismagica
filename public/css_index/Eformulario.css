@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+.bg-image {
+    background-image: url('../local_storage/img/hoja.png');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    height: 1000px;
+    width: 800px; 
+  }
+
+
+
+
+
+
+
